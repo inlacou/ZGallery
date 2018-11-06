@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ZGallery</string>
+	<string name="zak_gallery_share">Share</string>
 </resources>
